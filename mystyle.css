@@ -1,0 +1,6 @@
+.link {
+    display: none;
+  }
+.show:hover .link {
+    display: inline-block;
+  }
